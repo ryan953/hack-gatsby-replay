@@ -16,6 +16,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@sentry/gatsby": "^7.15.0",
     "gatsby": "^4.24.4",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
